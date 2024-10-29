@@ -45,8 +45,11 @@ If you're interested in building a robust platform like ContractorsAZ.com or wan
 
 ---
 
-📫 **Contact Me:**  
-Email: [your-email@example.com](mailto:your-email@example.com)  
-LinkedIn: [Awais Jamil](https://www.linkedin.com/in/your-link/)  
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awais-jamil/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:awaisjamil.dev@gmail.com)
+
+---
 
 Looking to hire an experienced Flutter developer? **Let's connect!**
